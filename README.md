@@ -1,7 +1,5 @@
 # Hi 👋, I'm Manoj
 
-# Hi 👋 I'm Manoj Kumar V
-
 🚀 AI & Full Stack Developer
 🎓 AIML Undergraduate
 🌱 Currently learning MERN Stack, DSA & GenAI
