@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Snake animation](https://githubusercontent.com)
+![Snake game](github-contribution-grid-snake-dark.svg)
+
 
 
 <!--
