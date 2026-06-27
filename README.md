@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Snake animation](https://githubusercontent.com)
+
+
 <!--
 **Manoj-Kumar-V-008/Manoj-Kumar-V-008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
